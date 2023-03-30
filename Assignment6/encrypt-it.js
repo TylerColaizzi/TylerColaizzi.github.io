@@ -25,4 +25,6 @@ console.log("Window Loaded!");
   // entire program in the init function, for similar reasons that
   // you shouldn't write an entire Java program in the main method).
 
+  function ShiftCipher(text) {}
+
 })();
